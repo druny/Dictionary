@@ -1,0 +1,27 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "Dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Danilenko",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.25.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.1",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/druny/Dictionary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/druny/Dictionary/issues"
+  },
+  "homepage": "https://github.com/druny/Dictionary#readme"
+}
