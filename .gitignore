@@ -81,7 +81,7 @@ jspm_packages
 # Gradle:
 .idea/gradle.xml
 .idea/libraries
-
+.idea/
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
@@ -104,3 +104,4 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+dist/
